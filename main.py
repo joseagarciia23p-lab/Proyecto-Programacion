@@ -33,7 +33,7 @@ class Juego: #CREAMOS UNA CLASE JUEGO
                     pygame.quit()
                     sys.exit()
 
-                    #AQUI CONTROLAREMOS AL PERSONAJE
+                    #AQUI CONTROLAREMOS AL PERSONAJES
                 if event.type == pygame.KEYDOWN:
                     if event.key == pygame.K_UP:    self.movimiento[0] = True
                     if event.key == pygame.K_DOWN:  self.movimiento[1] = True

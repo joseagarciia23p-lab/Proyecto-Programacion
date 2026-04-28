@@ -1,3 +1,7 @@
-class Mono:
-    pass
-#sdfsd
+#JUEGO DE PROGRAMACIÓN
+
+#ZOE
+#DIEGO
+#GENARO
+#JUAN
+#JOSE
